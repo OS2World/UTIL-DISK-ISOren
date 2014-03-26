@@ -1,0 +1,12 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: Window1.VRX
+MacroPath: VRM:D:\Prog\VXREXX\Projects\ISORen
+EXEPath: D:\Prog\VXREXX\Projects\ISORen\ISOren.exe
+RunParameters: 
+RunDirectory: D:\Arbeitsoberfl„che\System\Schablonen\VX-REXX Project
+VRXWindow: __VREMainWindow,1,1129,1385,8281,11970
+VRXWindow: __VRESectionListWindow,1,6565,1506,2650,3342
+VRXWindow: __VREToolsWindow,1,2168,11503,4037,1689
+VRXWindow: __VREWindListWindow,1,6549,4999,2650,3150
+UserFile: 1
+UserWindow: Window1,1
